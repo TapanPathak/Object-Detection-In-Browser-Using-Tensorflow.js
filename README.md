@@ -15,4 +15,5 @@ Not only will we know that the image contains an object, but we can also get the
 ***
 
 **How to Run?**
-Download the repisotory and run npm start or yarn start.
+
+Download the repository and start the development by running : - **npm start or yarn start**.
